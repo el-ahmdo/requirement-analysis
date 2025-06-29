@@ -73,3 +73,61 @@ Without proper requirement analysis, projects risk **failure, scope creep, misal
 ---
 
 In the context of this repository, understanding requirement analysis helps break down complex systems like hotel booking platforms into smaller, manageable services, ensuring a clear roadmap before development starts.
+
+
+## Types of Requirements
+
+In software development, requirements are typically categorized into two main types: **Functional Requirements** and **Non-functional Requirements**. Both are essential to building a system that works as expected and delivers a smooth user experience.
+
+### 🔧 Functional Requirements
+
+Functional requirements define **what the system should do** — the specific features, behaviors, and operations it must support.
+
+For the hotel booking management project, some functional requirements include:
+
+- **Hotel Listing Management**  
+  - Hotel managers must be able to add, update, or delete hotel information such as room types, prices, and availability.
+
+- **Search Functionality**  
+  - Customers must be able to search for hotels using filters like location, price range, amenities, and availability dates.
+
+- **Hotel Booking**  
+  - Users should be able to book a selected hotel, specifying the check-in and check-out dates.
+
+- **Payment Integration**  
+  - The system should integrate with third-party payment gateways to process transactions securely.
+
+- **View Bookings**  
+  - Both hotel managers and customers should be able to view current and past booking history.
+
+- **Notification System**  
+  - The system should notify customers about successful bookings and managers about new reservations.
+
+### ⚙️ Non-functional Requirements
+
+Non-functional requirements define **how the system should behave**. They are not about features but about qualities like performance, security, and usability.
+
+For the hotel booking system, examples of non-functional requirements include:
+
+- **Performance**  
+  - The system should be able to handle thousands of user requests per second during peak booking seasons.
+
+- **Scalability**  
+  - The application must scale horizontally to support growing user traffic and hotel data.
+
+- **Availability**  
+  - The system should have a 99.9% uptime guarantee to ensure uninterrupted access for users worldwide.
+
+- **Security**  
+  - Sensitive data such as payment information and user credentials must be encrypted and comply with security standards (e.g., SSL/TLS, PCI-DSS).
+
+- **Response Time**  
+  - Search and booking results should load within 2 seconds to ensure a smooth user experience.
+
+- **Maintainability**  
+  - The system architecture should be modular and follow microservice principles to simplify updates and debugging.
+
+---
+
+Both types of requirements work together to guide the design and development of a robust and user-friendly hotel booking application.
+
