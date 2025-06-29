@@ -38,6 +38,36 @@ In the SDLC, requirement analysis comes right after the project initiation phase
 - Testing strategies
 - Deployment planning
 
+
+## Key Activities in Requirement Analysis
+
+The requirement analysis phase involves several essential activities that ensure a complete and accurate understanding of what the software system should do. Below are the five key activities typically performed during this phase:
+
+- **📝 Requirement Gathering**  
+  - This involves collecting information from stakeholders such as clients, users, business managers, and technical teams.
+  - The goal is to understand the needs, expectations, and constraints for the software product.
+  - Techniques include interviews, questionnaires, observation, and reviewing existing systems.
+
+- **🎯 Requirement Elicitation**  
+  - Elicitation goes beyond gathering to uncover the actual needs behind what stakeholders say they want.
+  - It focuses on discovering hidden or conflicting requirements through brainstorming, workshops, prototyping, and use case analysis.
+
+- **📄 Requirement Documentation**  
+  - The gathered and elicited requirements are documented clearly, often in a Software Requirements Specification (SRS) document.
+  - Documentation should include functional and non-functional requirements, constraints, assumptions, and acceptance criteria.
+
+- **📊 Requirement Analysis and Modeling**  
+  - This step involves evaluating the requirements for completeness, consistency, feasibility, and clarity.
+  - Modeling techniques like data flow diagrams, use case diagrams, and wireframes may be used to represent the system visually and logically.
+
+- **✅ Requirement Validation**  
+  - The documented requirements are reviewed and validated with stakeholders to ensure they accurately reflect their needs.
+  - This step helps identify any errors, ambiguities, or missing requirements before the development begins.
+
+---
+
+Performing these activities thoroughly helps create a solid foundation for system design and development, reducing the chances of project failure and increasing the likelihood of delivering a successful product.
+
 Without proper requirement analysis, projects risk **failure, scope creep, misalignment**, and **user dissatisfaction**.
 
 ---
