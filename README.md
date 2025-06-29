@@ -168,5 +168,39 @@ Below is a sample use case diagram for a hotel booking management system like Ai
 
 ![Use Case Diagram](alx-booking-uc.png)
 
+## Acceptance Criteria
+
+### 📌 What is Acceptance Criteria?
+
+**Acceptance Criteria** are specific conditions or requirements that a software feature must meet to be considered complete and accepted by stakeholders or users. They are written from the user’s perspective and help define **“done”** in a clear, testable, and measurable way.
+
+Acceptance Criteria are essential in **Requirement Analysis** because they:
+
+- Ensure the feature meets business goals and user needs.
+- Provide a clear agreement between developers, testers, and stakeholders.
+- Reduce ambiguity by setting expectations upfront.
+- Serve as a basis for writing test cases and verifying functionality.
+
+---
+
+### ✅ Example: Acceptance Criteria for “Checkout” Feature
+
+Let’s consider a **Checkout** feature in a hotel booking management system. Here's what its acceptance criteria might look like:
+
+**Feature:** _Checkout and Payment for Hotel Booking_
+
+**Acceptance Criteria:**
+
+1. ✅ User must be able to review their booking summary before proceeding to payment.
+2. ✅ User must be able to select from at least one supported payment method (e.g., card, PayPal, or bank transfer).
+3. ✅ System must validate all required payment details before submitting.
+4. ✅ Upon successful payment, user must see a confirmation page with booking reference.
+5. ✅ A booking confirmation email and/or SMS must be sent to the user.
+6. ✅ If the payment fails, the user must see a clear error message and be allowed to retry.
+
+---
+
+
+
 
 
