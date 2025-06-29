@@ -131,3 +131,42 @@ For the hotel booking system, examples of non-functional requirements include:
 
 Both types of requirements work together to guide the design and development of a robust and user-friendly hotel booking application.
 
+## Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a type of Unified Modeling Language (UML) diagram used in requirement analysis to visually represent how **users (actors)** interact with a **system**. It shows the system's functionality from an end-user's perspective and helps identify the major features and interactions early in the software development process.
+
+### 💡 Benefits of Use Case Diagrams
+
+- **Clarifies system boundaries** — shows what is inside and outside the scope.
+- **Identifies key system users (actors)** and their interactions.
+- **Improves communication** between developers, designers, and stakeholders.
+- **Helps in writing better user stories and test cases**.
+- **Simplifies requirement validation** by making it visual and easy to understand.
+
+### 🗂️ Use Case Diagram for the Booking System
+
+Below is a sample use case diagram for a hotel booking management system like Airbnb or Booking.com. It includes two primary actors — the **Customer** and the **Hotel Manager** — and their main interactions with the system.
+
+📌 **Actors:**
+- Customer
+- Hotel Manager
+
+📌 **Use Cases:**
+- Search Hotels
+- View Hotel Details
+- Make a Booking
+- Make Payment
+- View Booking History
+- Add/Edit Hotel Listing
+- Update Room Availability
+- View New Bookings
+- Receive Notifications
+
+### 📷 Diagram
+
+![Use Case Diagram](alx-booking-uc.png)
+
+
+
